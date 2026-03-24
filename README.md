@@ -18,3 +18,6 @@ This repository contains a LaTeX project for a comprehensive PhD guide, specific
 
 ## How to Compile
 You can compile this project using any LaTeX engine (like `pdfLaTeX` or `XeLaTeX`). If you are using VS Code, the project is configured to use the `LaTeX Workshop` extension.
+
+---
+© 2025 Emanuele D'Allestro. All rights reserved.
