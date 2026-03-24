@@ -1,0 +1,29 @@
+# LaTeX build products
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.pdf
+*.synctex.gz
+*.toc
+*.aux
+*.bbl
+*.blg
+*.brf
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc0
+*.nlo
+*.run.xml
+*.snm
+*.nav
+*.vrb
+
+# VS Code settings (optional, but keep them for this fix)
+# .vscode/
